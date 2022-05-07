@@ -21,4 +21,4 @@ Snehal Dawkhar
 Pranali Kale
 
 ## Acknowledgment 
-I would like to express my special thanks of gratitude to my Guide who gave us the golden opportunity to do this Dataset project on the topic Indian Currency coin classification, which also helped me in doing a lot of Research and i came to know about so many new technologies and algorithm. I am really thankful to her.
+I would like to express my special thanks of gratitude to my Guide Professor Vidula Meshram, who gave us the golden opportunity to do this Dataset project on the topic Indian Currency coin classification, which also helped me in doing a lot of Research and i came to know about so many new technologies and algorithm. I am really thankful to her.
