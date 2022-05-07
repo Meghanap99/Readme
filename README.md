@@ -27,11 +27,11 @@ For people who want to make changes to your project, it's helpful to have some d
 
 You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
 
-##Authors 
+## Authors 
 Meghana Patil
 Sakshi Deo
 Snehal Dawkhar
 Pranali Kale
 
-###Acknowledgment 
+## Acknowledgment 
 I would like to express my special thanks of gratitude to my Guide who gave us the golden opportunity to do this Dataset project on the topic Indian Currency coin classification, which also helped me in doing a lot of Research and i came to know about so many new technologies and algorithm. I am really thankful to her.
